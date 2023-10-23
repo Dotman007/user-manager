@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\bin\Debug\net7.0\UserManager.Domain.deps.json
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\bin\Debug\net7.0\UserManager.Domain.dll
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\bin\Debug\net7.0\UserManager.Domain.pdb
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\UserManager.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\UserManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\UserManager.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\UserManager.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\UserManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\UserManager.Domain.dll
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\refint\UserManager.Domain.dll
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\UserManager.Domain.pdb
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Domain\obj\Debug\net7.0\ref\UserManager.Domain.dll

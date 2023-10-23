@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mRpTR2dlQU8hMA/AaGdaLZAfJFfcFHJMPN9hd4fULyM=",
+  "Source": "UserManager.Web",
+  "BasePath": "_content/UserManager.Web",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

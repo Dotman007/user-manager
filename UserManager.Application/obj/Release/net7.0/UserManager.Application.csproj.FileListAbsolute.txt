@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\bin\Release\net7.0\UserManager.Application.deps.json
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\bin\Release\net7.0\UserManager.Application.dll
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\bin\Release\net7.0\UserManager.Application.pdb
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\bin\Release\net7.0\UserManager.Domain.dll
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\bin\Release\net7.0\UserManager.Infrastructure.dll
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\bin\Release\net7.0\UserManager.Domain.pdb
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\bin\Release\net7.0\UserManager.Infrastructure.pdb
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\UserManager.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\UserManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\UserManager.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\UserManager.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\UserManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\UserManager.Application.csproj.CopyComplete
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\UserManager.Application.dll
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\refint\UserManager.Application.dll
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\UserManager.Application.pdb
+C:\Users\DELL\source\repos\UserManager.Web\UserManager.Application\obj\Release\net7.0\ref\UserManager.Application.dll
